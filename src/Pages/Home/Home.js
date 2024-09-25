@@ -2,7 +2,7 @@
 const Home = () => {
     return(
         <div>
-<h1>Home Vlad Beketov Vladimirovich</h1>
+<h1>Home from Beketov Vlad Vladimirovich</h1>
         <p>Hello World</p>
         </div>
     )
