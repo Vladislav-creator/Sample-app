@@ -2,8 +2,8 @@
 const About= () => {
     return(
         <div>
-            <h1>About my story from neighbor</h1>
-            <p>bad</p>
+            <h1>About my story from me</h1>
+            <p>nice</p>
         </div>
     )
 };
