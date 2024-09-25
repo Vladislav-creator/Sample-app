@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksample_app=self.webpackChunksample_app||[]).push([[96],{96:(e,l,s)=>{s.r(l),s.d(l,{default:()=>p});var a=s(579);const p=()=>(0,a.jsxs)("div",{children:[(0,a.jsx)("h1",{children:"Home from Beketov Vlad Vladimirovich"}),(0,a.jsx)("p",{children:"Hello World"})]})}}]);
+//# sourceMappingURL=96.1b772bbf.chunk.js.map
